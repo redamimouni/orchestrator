@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/redamimouni/Documents/dev/Vapor/Orchestrator/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

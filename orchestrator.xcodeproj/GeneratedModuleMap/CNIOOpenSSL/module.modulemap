@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/redamimouni/Documents/dev/Vapor/Orchestrator/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include"
+    export *
+}
